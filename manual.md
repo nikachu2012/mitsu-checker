@@ -10,7 +10,8 @@
 3. 上ボタンを押して計測を開始します。  
 <img src="https://i.imgur.com/5ZauF0g.png" width="400">
 4. 計測完了まで約１５秒かかります。  
-<img src="https://i.imgur.com/5ZauF0g.png" width="400">  
+<img src="https://i.imgur.com/5ZauF0g.png" width="400">
+
 5. 計測結果の「Mitsudo: 」のあとの数値が密度です。  
 6. 下には各項目の計測結果が表示されます。  
 7. 終了する場合はサイドにあるスイッチを切ってください。  再度計測する場合はサイドの黄色いリセットスイッチを押してください。  
