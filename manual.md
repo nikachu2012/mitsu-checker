@@ -21,5 +21,14 @@ Arduino IDE(スケッチエディター)でシリアルモニタを確認する�
 この密チェッカーの判定はあくまでも参考値です。  
 ご了承ください。
 
-## ファイルについて
-このファイルの最新版は、<https://github.com/nikachu2012/mitsu-checker/blob/main/manual.md>にあります。  
+## このリポジトリについて
+このファイル（取扱説明書）の最新版は、<https://github.com/nikachu2012/mitsu-checker/blob/main/manual.md> にあります。  
+このソフトウェアはオープンソースとして公開しています。　　
+リポジトリは<https://github.com/nikachu2012/mitsu-checker/>にあります。  
+後々回路図等も追加していく予定です。　　
+
+## 更新履歴&バージョン
+version: 1.00  
+
+#### version: 1.00
+初版公開。
