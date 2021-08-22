@@ -22,8 +22,12 @@ Arduino IDE(スケッチエディター)でシリアルモニタを確認する�
 |変数名|変数内容|  
 |---|---|  
 |mitsudo|密の度合い|  
-|centerMitsu<br>leftMitsu<br>rightMitsu|中央,左,右それぞれの密閉+密集度|  
-
+|centerMitsu<br>leftMitsu<br>rightMitsu|中央、左、右それぞれの密閉＆密集が当てはまっているか|  
+|CO2PPM|二酸化炭素濃度(ppm)|  
+|CO2Mitsu|密集が当てはまっているか|  
+|centerDistance<br>leftDistance<br>rightDistance|中央、左、右の距離センサーの値|  
+|CENTERmotionStatus<br>RIGHTmotionStatus<br>LEFTmotionStatus|中央、左、右の動きセンサーの値(１０回計測)|  
+|mippeiTruefalse<br>missyuuTruefalse<br>missetsuTruefalse<br>|密閉、密集、密接のそれぞれ当てはまっているか|  
 
 ## 免責事項
 この密チェッカーの判定はあくまでも参考値です。  
