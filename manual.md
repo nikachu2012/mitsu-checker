@@ -5,12 +5,12 @@
 
 ## 使い方
 1. まずは電源を入れます。サイドにあるスイッチを入れてください。  
-2. PRESS Aと出てきたらAボタンを押します。  
+2. A STARTと出てきたらAボタンを押します。  
 <img src="https://i.imgur.com/R8LWEwq.png" width="400">
 3. 上ボタンを押して計測を開始します。  
 <img src="https://i.imgur.com/5ZauF0g.png" width="400">
 4. 計測完了まで約１５秒かかります。  
-<img src="https://i.imgur.com/5ZauF0g.png" width="400">
+<img src="https://i.imgur.com/gJ8ITLh.png" width="400">
 
 5. 計測結果の「Mitsudo: 」のあとの数値が密度です。  
 6. 下には各項目の計測結果が表示されます。  
